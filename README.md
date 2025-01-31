@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Oliver</h1>
-<p>A passionate frontend developer from Taiwan.</p>
+<p>A passionate frontend developer from Taiwan. As a passionate Frontend Developer, I am good at transforming design concepts into vivid web pages, and polishing every interactive detail with UI/UX thinking to make the user experience more outstanding! With a passion for new technologies, I am constantly keeping an eye on new international trends and expanding my technological horizons, and I look forward to continuing to grow with each breakthrough!</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
