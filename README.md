@@ -1,6 +1,9 @@
-<h1>Hi 👋, I'm Oliver</h1>
-<p>A passionate frontend developer 👨🏻‍💻 from Taiwan. I excel at transforming design concepts into vivid web pages ✨, carefully refining every interactive detail with UI/UX thinking 🎨 to create an outstanding user experience! 💡 With a passion for new technologies, I am constantly keeping an eye on global trends 🌍, expanding my technological horizons 🔧, and looking forward to growing with each breakthrough! 🚀</p>
-<h2>🚀 Languages and Tools I Use</h2>
+# Hi 👋, I'm Oliver 👨🏻‍💻
+- A passionate frontend developer from Taiwan, dedicated to transforming design concepts into vivid web pages ✨  
+- Carefully refines every interactive detail with UI/UX thinking to craft an outstanding user experience 🎨  
+- Enthusiastic about learning new technologies, constantly keeping an eye on global trends and expanding my technical horizons 🔧  
+
+## 🎯 Teck Stack
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -37,9 +40,12 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
-<h2>⚡️ Where to find me</h2>
+
+## 🔗 Social Links 
 <p><a target="_blank" href="https://www.linkedin.com/in/熊伯祥" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="undefined@aaabear320" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
+
+## 📊 GitHub Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bear320&show_icons=true&locale=en" alt="bear320" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bear320&" alt="bear320" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bear320&show_icons=true&locale=en&layout=compact" alt="bear320" /></p>
