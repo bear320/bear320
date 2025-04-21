@@ -1,4 +1,4 @@
-# Hi 👋, I'm Oliver 👨🏻‍💻
+# Hi 👋, I'm Oliver 🐻
 - A passionate frontend developer from Taiwan, dedicated to transforming design concepts into vivid web pages ✨  
 - Carefully refines every interactive detail with UI/UX thinking to craft an outstanding user experience 🎨  
 - Enthusiastic about learning new technologies, constantly keeping an eye on global trends and expanding my technical horizons 🔧  
