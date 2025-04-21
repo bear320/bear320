@@ -3,7 +3,7 @@
 - Carefully refines every interactive detail with UI/UX thinking to craft an outstanding user experience 🎨  
 - Enthusiastic about learning new technologies, constantly keeping an eye on global trends and expanding my technical horizons 🔧  
 
-## 🎯 Teck Stack
+## 🎯 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
